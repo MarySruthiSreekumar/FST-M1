@@ -8,7 +8,7 @@ import org.openqa.selenium.WebDriver;
 import org.testng.annotations.Test;
 import org.testng.asserts.Assertion;
 
-public class Activity {
+public class Activity1 {
     WebDriver driver;
     @BeforeMethod
     public void beforeMethod() {
